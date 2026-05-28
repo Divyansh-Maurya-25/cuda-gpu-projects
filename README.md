@@ -139,7 +139,3 @@ cuda-gpu-projects/
 ```
 
 ---
-
-## Course Context
-
-Projects for **CAP 5768 — GPU Computing** at the University of South Florida. Scores: Project 1 (100/100), Project 2 (96/100), Project 3 (100/100).
