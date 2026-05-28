@@ -1,6 +1,6 @@
 # CUDA GPU Projects — Parallel Computing on the GPU
 
-> Three progressive GPU programming projects in CUDA C: spatial distance histograms optimized with shared memory and atomic reduction, and a parallel Bloom filter with GPU-ported SipHash. Built for CAP 5768 at USF.
+> Three progressive GPU programming projects in CUDA C: spatial distance histograms optimized with shared memory and atomic reduction, and a parallel Bloom filter with GPU-ported SipHash. Built for COP 4520 at USF.
 
 [![CUDA](https://img.shields.io/badge/CUDA-12.x-76B900?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
 [![C](https://img.shields.io/badge/C-99-blue)](https://en.wikipedia.org/wiki/C99)
